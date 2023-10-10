@@ -1,0 +1,53 @@
+{
+    "sites" : [
+        {
+            "name":"HACERTEMIA",
+            "makeup":"HACERTEMIA",
+            "link":"https://open.spotify.com/track/0dDS5urIBoQ1yfQSN5zPsw?si=bec8dcdf74ce42ae'",
+            "emoji":"❤️",
+            "color":"#1AD761"
+        }, 
+        {
+            "name":"COMPRAR MUSICA", 
+            "makeup":"BANDCAMP", 
+            "link":"https://loxive.bandcamp.com/'",
+            "emoji":"💵",
+            "color":"#1ED760"
+        }, 
+        {
+            "name":"SPOTIFY", 
+            "makeup":"SPOTIFY", 
+            "link":"https://open.spotify.com/artist/79hqZiGQTeDhnkUs3NqBSK'",
+            "emoji":"🎵",
+            "color":"#1ED760"
+        }, 
+        {
+            "name":"SOUNDCLOUD", 
+            "makeup":"SOUNDCLOUD", 
+            "link":"https://soundcloud.com/loxive'",
+            "emoji":"☁",
+            "color":"#1ED760"
+        }, 
+        {
+            "name":"APPLEMUSIC", 
+            "makeup":"APPLEMUSIC", 
+            "link":"https://music.apple.com/es/artist/loxive/1146341205'",
+            "emoji":"🍏",
+            "color":"#1ED760"
+        }, 
+        {
+            "name":"TWITCH", 
+            "makeup":"TWITCH", 
+            "link":"https://www.twitch.tv/loxiveofficial'",
+            "emoji":"💻",
+            "color":"#1ED760"
+        }, 
+        {
+            "name":"YOUTUBE", 
+            "makeup":"YOUTUBE", 
+            "link":"https://www.youtube.com/@loxiveofficial7681/streams'",
+            "emoji":"▶",
+            "color":"#1ED760"
+        }
+    ]
+}
