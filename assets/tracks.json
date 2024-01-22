@@ -1,13 +1,6 @@
 {
     "sites" : [
         {
-            "name":"RAVEBOY",
-            "makeup":"HACERTEMIA",
-            "link":"https://open.spotify.com/album/4EVTu4E340CXBTVJaRDZUW?si=0a8k5vUaS7yyCXPTmjg8mA",
-            "emoji":"❤️",
-            "color":"#1AD761"
-        }, 
-        {
             "name":"COMPRAR MUSICA", 
             "makeup":"BANDCAMP", 
             "link":"https://loxive.bandcamp.com/",
