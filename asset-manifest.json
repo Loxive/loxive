@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/loxive/static/css/main.8a8cb2f9.css",
-    "main.js": "/loxive/static/js/main.ecafe8c7.js",
-    "static/js/453.bf2bc3b3.chunk.js": "/loxive/static/js/453.bf2bc3b3.chunk.js",
-    "static/media/clap.jpg": "/loxive/static/media/clap.f6f7008c59ab3336bf1e.jpg",
-    "static/media/loxive_logo.png": "/loxive/static/media/loxive_logo.c8389e1abf179f1380f1.png",
-    "index.html": "/loxive/index.html",
-    "main.8a8cb2f9.css.map": "/loxive/static/css/main.8a8cb2f9.css.map",
-    "main.ecafe8c7.js.map": "/loxive/static/js/main.ecafe8c7.js.map",
-    "453.bf2bc3b3.chunk.js.map": "/loxive/static/js/453.bf2bc3b3.chunk.js.map"
+    "main.css": "/static/css/main.f390efc1.css",
+    "main.js": "/static/js/main.e86b537f.js",
+    "static/js/453.bf2bc3b3.chunk.js": "/static/js/453.bf2bc3b3.chunk.js",
+    "static/media/clap.jpg": "/static/media/clap.f6f7008c59ab3336bf1e.jpg",
+    "static/media/loxive_logo.png": "/static/media/loxive_logo.c8389e1abf179f1380f1.png",
+    "index.html": "/index.html",
+    "main.f390efc1.css.map": "/static/css/main.f390efc1.css.map",
+    "main.e86b537f.js.map": "/static/js/main.e86b537f.js.map",
+    "453.bf2bc3b3.chunk.js.map": "/static/js/453.bf2bc3b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a8cb2f9.css",
-    "static/js/main.ecafe8c7.js"
+    "static/css/main.f390efc1.css",
+    "static/js/main.e86b537f.js"
   ]
 }
