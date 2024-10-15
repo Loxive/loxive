@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f390efc1.css",
+    "main.css": "/static/css/main.e4ba21c8.css",
     "main.js": "/static/js/main.e86b537f.js",
     "static/js/453.bf2bc3b3.chunk.js": "/static/js/453.bf2bc3b3.chunk.js",
     "static/media/clap.jpg": "/static/media/clap.f6f7008c59ab3336bf1e.jpg",
     "static/media/loxive_logo.png": "/static/media/loxive_logo.c8389e1abf179f1380f1.png",
     "index.html": "/index.html",
-    "main.f390efc1.css.map": "/static/css/main.f390efc1.css.map",
+    "main.e4ba21c8.css.map": "/static/css/main.e4ba21c8.css.map",
     "main.e86b537f.js.map": "/static/js/main.e86b537f.js.map",
     "453.bf2bc3b3.chunk.js.map": "/static/js/453.bf2bc3b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f390efc1.css",
+    "static/css/main.e4ba21c8.css",
     "static/js/main.e86b537f.js"
   ]
 }
