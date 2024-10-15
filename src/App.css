@@ -1,0 +1,110 @@
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+.App {
+  background-image: url('./assets/img/clap.jpg');  /* Ruta de la imagen */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  padding-top: 20vh; 
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Linktree{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  text-align: center;
+  width:30%;
+  margin-bottom:10px;
+  border-radius: 15px;
+  border: 5px solid;
+  transition-duration: 0.5s;
+  text-decoration: none;
+  font-weight: 700;
+  color:white;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.card:hover {
+  width:50%;
+  transition-duration: 0.5s;
+}
+
+.card p, .card a {
+  color: white;
+  text-decoration: none;
+}
+
+/* .SPOTIFY {
+  background-color: rgba(50, 238, 50,0.1);
+} */
+.SPOTIFY:hover {
+  background-color: rgb(0, 194, 0);
+}
+
+/* .SOUNDCLOUD {
+  background-color: rgba(226, 90, 0,0.1);
+} */
+.SOUNDCLOUD:hover {
+  background-color: rgb(226, 90, 0);
+}
+
+/* .APPLEMUSIC {
+  background-color: rgba(207, 0, 207,0.1);
+} */
+.APPLEMUSIC:hover {
+  background-color: rgb(207, 0, 207);
+}
+
+/* .APPLEMUSIC {
+  background-color: rgba(207, 0, 207,0.1);
+} */
+.BANDCAMP:hover {
+  background-color: rgb(0, 97, 207);
+}
+/* .APPLEMUSIC {
+  background-color: rgba(207, 0, 207,0.1);
+} */
+.TWITCH:hover {
+  background-color: rgb(110, 0, 138);
+}
+/* .APPLEMUSIC {
+  background-color: rgba(207, 0, 207,0.1);
+} */
+.YOUTUBE:hover {
+  background-color: rgb(255, 0, 0);
+}
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */

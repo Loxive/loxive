@@ -1,0 +1,10 @@
+{
+    "sites" : [
+        {"id":0,"color":3, "title":"SPOTIFY","link":"https://open.spotify.com/artist/79hqZiGQTeDhnkUs3NqBSK"},
+        {"id":1,"color":2, "title":"SOUNDCLOUD","link":"https://soundcloud.com/loxive"},
+        {"id":2,"color":4, "title":"APPLEMUSIC","link":"https://music.apple.com/us/artist/loxive/1146341205"},
+        {"id":3,"color":5, "title":"BANDCAMP","link":"https://loxive.bandcamp.com/"},
+        {"id":4,"color":6, "title":"TWITCH","link":"https://www.twitch.tv/loxiveofficial"},
+        {"id":5,"color":7, "title":"YOUTUBE","link":"https://www.youtube.com/@loxiveofficial7681/streams"}
+    ]
+}
